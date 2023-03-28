@@ -1,1 +1,6 @@
 Testando a funcionalidade git pull
+1
+2
+3
+4
+5
