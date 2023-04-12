@@ -5,3 +5,4 @@ Testando a funcionalidade git pull
 4
 5
 Enviando a funcionalidade X
+Enviando a funcionalidade B
